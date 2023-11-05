@@ -23,4 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinitreesajoseph&show_icons=true&locale=en" alt="tinitreesajoseph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinitreesajoseph&" alt="tinitreesajoseph" /></p>
-<script src="https://tryhackme.com/badge/2351059"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/tinijoseph12.png" alt="TryHackMe">
